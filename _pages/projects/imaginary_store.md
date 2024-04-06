@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Tetris
+title: Imaginary-Store
 permalink: /projects/imaginary-store/
 author_profile: false
 ---
