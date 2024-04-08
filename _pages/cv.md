@@ -10,7 +10,7 @@ output:
 ---
 <html>
 <center>
-  <a href="#">Download a copy as PDF</a>
+  <a href="/files/Mostafa_Salari_khaniki_cv.pdf">Download a copy as PDF</a>
 </center>
 </html>
 {% include_relative cv.html %}
