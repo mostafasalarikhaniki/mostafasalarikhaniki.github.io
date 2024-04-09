@@ -44,7 +44,7 @@ ViSERA is a comprehensive and user-friendly medical image analysis software deve
 <body>
     <center>
     <video controls autoplay="autoplay" loop="true" controls muted>
-    <source src="/files/visera/workflow.mp4" type="video/mp4">
+    <source src="/files/visera/workflow-video.mp4" type="video/mp4">
     </video>
     </center>
 </body>
