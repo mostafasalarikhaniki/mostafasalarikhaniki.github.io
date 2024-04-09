@@ -37,7 +37,7 @@ author_profile: false
 </html>
 
 ## Introduction
-ViSERA is a comprehensive and user-friendly medical image analysis software developed as an independent international project. This software is built from scratch using Python and utilizes libraries such as VTK, ITK and machine learning algorithmsfor various renderings and image manipulations. Additionally, it employs Pyside6 and NodeGraphQt libraries for graphical user interface. The primary goal of ViSERA is to create a powerful medical image processing system that assists physicians in diagnosing brain and glandular diseases with greater accuracy.
+ViSERA is a comprehensive and user-friendly medical image analysis software developed as an independent international project. This software is built from scratch using Python and utilizes libraries such as VTK, ITK and machine learning algorithms for various renderings and image manipulations. Additionally, it employs Pyside6 and NodeGraphQt libraries for graphical user interface. The primary goal of ViSERA is to create a powerful medical image processing system that assists physicians in diagnosing brain and glandular diseases with greater accuracy.
 
 
 <html>
